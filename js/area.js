@@ -1,6 +1,7 @@
 function computeArea(width, height) {
   // your code here
   console.log(width * height);
+  return width * height;
 }
 
 

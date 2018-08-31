@@ -1,11 +1,11 @@
 function celsToFahr(celsTemp) {
   // your code here
-  console.log((celsTemp * (9/5)) + 32);
+  return ((celsTemp * (9/5)) + 32);
 }
 
 function fahrToCels(fahrTemp) {
   // your code here
-  console.log((fahrTemp - 32) * (5/9));
+  return ((fahrTemp - 32) * (5/9));
 }
 
 

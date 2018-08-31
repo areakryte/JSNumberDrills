@@ -1,5 +1,11 @@
 function isDivisible(divisee, divisor) {
    // your code here
+   if (divisee%divisor === 0){
+     return true;
+   }
+   else {
+     return false;
+   }
 }
 
 
